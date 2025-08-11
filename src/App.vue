@@ -1,9 +1,11 @@
 <script setup>
-import Navbar from './components/Navbar.vue';
+  import Navbar from './components/Navbar.vue';
+  import Hero from './components/Hero.vue';
 </script>
 
 <template>
-  <div class="container mx-auto p-4">
+  <div>
     <Navbar />
+    <Hero />
   </div>
 </template>
