@@ -153,6 +153,20 @@
         "contactEmail": "koneautomaatio@hotmail.com",
         "contactPhone": "0449432369"
       }
+    },
+    {
+      "id": "7fb3",
+      "title": "Ohjelmoija",
+      "type": "Part-Time",
+      "location": "Helsinki",
+      "description": "koodaamista välillä...",
+      "salary": "Under $50K",
+      "company": {
+        "name": "testi firma tämäkin",
+        "description": "atk firma",
+        "contactEmail": "mika@hotmail.com",
+        "contactPhone": "0449437777"
+      }
     }
   ]
 }
