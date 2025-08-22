@@ -113,20 +113,6 @@
       }
     },
     {
-      "id": "f735",
-      "title": "nimi",
-      "type": "Full-Time",
-      "location": "Helsinki",
-      "description": "joopa ddd",
-      "salary": "$70K - $80K",
-      "company": {
-        "name": "testi firma",
-        "description": "atk",
-        "contactEmail": "koneautomaatio@hotmail.com",
-        "contactPhone": "0449432369"
-      }
-    },
-    {
       "id": "e8f5",
       "title": "nimi",
       "type": "Full-Time",
@@ -138,34 +124,6 @@
         "description": "atk",
         "contactEmail": "koneautomaatio@hotmail.com",
         "contactPhone": "0449432369"
-      }
-    },
-    {
-      "id": "a9d8",
-      "title": "nimi",
-      "type": "Full-Time",
-      "location": "Helsinki",
-      "description": "joopa jppp",
-      "salary": "$90K - $100K",
-      "company": {
-        "name": "testi firma",
-        "description": "atk",
-        "contactEmail": "koneautomaatio@hotmail.com",
-        "contactPhone": "0449432369"
-      }
-    },
-    {
-      "id": "7fb3",
-      "title": "Ohjelmoija",
-      "type": "Part-Time",
-      "location": "Helsinki",
-      "description": "koodaamista välillä...",
-      "salary": "Under $50K",
-      "company": {
-        "name": "testi firma tämäkin",
-        "description": "atk firma",
-        "contactEmail": "mika@hotmail.com",
-        "contactPhone": "0449437777"
       }
     }
   ]
